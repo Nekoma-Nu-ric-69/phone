@@ -1,19 +1,19 @@
 export const Phone = [
   {
     id: 1,
-    img: "https://istudio-shop.ru/a/istudio/files/multifile/2353/4_53_0.webp",
+    img: "https://ir.ozone.ru/s3/multimedia-u/wc1000/6025763826.jpg",
     price: 200,
     name: "apple",
   },
   {
     id: 2,
-    img: "https://redstore.by/wp-content/uploads/2022/09/phone-14-plus-midnight.png",
+    img: "https://ir.ozone.ru/s3/multimedia-9/wc1000/6714930573.jpg",
     price: 200,
     name: "Apple",
   },
   {
     id: 3,
-    img: "https://pitergsm.ru/upload/resize_cache/iblock/ca5/510_510_1/ca540d6fd308a5e8e10c8b61aeee4113.png",
+    img: "https://ir.ozone.ru/s3/multimedia-a/wc1000/6025763806.jpg",
     price: 200,
     name: "APPLE",
   },
